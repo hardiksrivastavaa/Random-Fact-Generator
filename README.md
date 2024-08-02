@@ -12,7 +12,7 @@ A simple web application that generates random facts each time a button is click
 
 ## Demo
 
-You can see the live demo of the Random Fact Generator [here](https://hardik-techie.github.io/Random-Fact-Generator/).
+You can see the live demo of the Random Fact Generator [here](https://hardiksrivatavaa.github.io/Random-Fact-Generator/).
 
 ## Technologies Used
 
